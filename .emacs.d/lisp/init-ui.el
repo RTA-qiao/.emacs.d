@@ -15,3 +15,4 @@
 (show-paren-mode 1)
 (electric-pair-mode t)
 (provide 'init-ui)
+;;; init-startup.el ends here
